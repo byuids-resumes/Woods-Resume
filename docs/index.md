@@ -1,89 +1,87 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Cai Woods's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Cai Woods
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="caiwoods11@byui.edu">caiwoods11@byui.edu</a>
+| <a href="https://github.com/caiwoods11/Woods-Resume">Data Science Program</a>
+| <a href="https://www.linkedin.com/in/cai-woods/">LinkedIn</a>
+| <a href="https://github.com/caiwoods11">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018`
+__Institute of Real Estate Education__, Bountiful, UT
 
-- Full academic scholarship with 4.0 GPA
+- Real Estate Sales Agent Certificate 
 
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
+- Certificate in Data Analysis
+- Certificate in Data Science
+- Database Certificate
+- Web Development Certificate
+- Computer Programming Certificate
+- Web and Computer Programming Certificate
+- Certificate in Excel
 
 
 ## Related Experience
 
-### Internships
+### Business Intelligence Analyst
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2022 - Present`
+__Kyani__ , Contract (Full-Time)
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Triaged IT Tickets by investigating reported data issues, troubleshooting data problems, implementing solutions to solve the reported problem.
+- Responded to ad-hoc requests from the business, providing them with the datasets and answers they require.
+- Determined contest qualifiers (via SQL) based on specific rules and requirements as defined by each market.
+- Created and update stored procedures to determine potential contest qualifiers based on rules defined by the business.
+- Developed standard reports, ad-hoc reports, and supporting infrastructure.
+- Standardized ETL processes and tools to automate data extraction and manual reporting
 
-### Data Science Lead
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Senior Move Manager 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 2021 - Present`
+__New Leaf Senior Transistions__, Professional Organizer
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Executed updated marketing plans to increase branding exposure, customer traffic and sales by 15%
+- Interacted pleasantly with clients and guests when performing daily duties
+- Established hands-on, proactive management style to facilitate improvements to workflow by 10%
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Assistant Store Manager 
+`August 2016 - December 2019`
+__Bath and Body Works__, Brand Manager Consultant 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Mentored employees to generate sales, promote effective upselling, and cross-sell to improve retail productivity resulting in a 5% increase in sales revenue for years 2018 and 2019
+- Recruited, interviewed, hired, and trained qualified employees to deliver top-quality service increasing employee retention by 20%
+- Measured goal achievement by evaluating daily cash flow, reviewing sales reports, and producing financial statements
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2016-2019`
+__Quilter__, Latter-Day Saints Humanitarian Center
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2010-2012`
+__Pediatric Burn Center Volunteer__, Shriners Hospital
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
