@@ -39,7 +39,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Business Intelligence Analyst
 
 `April 2022 - Present`
-__Kyani__ , Contract (Full-Time)
+__Kyani__    •	Orangevale, CA
 
 - Triaged IT Tickets by investigating reported data issues, troubleshooting data problems, implementing solutions to solve the reported problem.
 - Responded to ad-hoc requests from the business, providing them with the datasets and answers they require.
@@ -52,7 +52,7 @@ __Kyani__ , Contract (Full-Time)
 ### Senior Move Manager 
 
 `January 2021 - Present`
-__New Leaf Senior Transistions__, Professional Organizer
+__New Leaf Senior Transistions__    •	 Roseville, CA
 
 - Executed updated marketing plans to increase branding exposure, customer traffic and sales by 15%
 - Interacted pleasantly with clients and guests when performing daily duties
@@ -62,7 +62,7 @@ __New Leaf Senior Transistions__, Professional Organizer
 
 ### Assistant Store Manager 
 `August 2016 - December 2019`
-__Bath and Body Works__, Brand Manager Consultant 
+__Bath and Body Works__    •	 Provo, UT
 
 - Mentored employees to generate sales, promote effective upselling, and cross-sell to improve retail productivity resulting in a 5% increase in sales revenue for years 2018 and 2019
 - Recruited, interviewed, hired, and trained qualified employees to deliver top-quality service increasing employee retention by 20%
